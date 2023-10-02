@@ -1,0 +1,14 @@
+body{
+    background-image:url(../IMAGES/black\ curly\ wig.jpeg);
+    background-repeat: no-repeat;
+    background-blend-mode: lighten;
+}
+
+.logo{
+    border-radius: 40%;
+    max-width: 60%;
+    height: auto;
+    display: block;
+    width: auto;
+}
+    
